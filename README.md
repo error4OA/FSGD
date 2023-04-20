@@ -15,3 +15,6 @@ It's your choice to download FSGD i'm not forcing you
 * [x] Add some games
 * [ ] Make a better UI
 * [ ] Make text colored
+
+## Extra info
+Version: 1.0
