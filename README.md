@@ -1,7 +1,7 @@
 # FSGD, free steam game downloader
 With this python-pure open-source application you can download paid steam games for free, *but* make sure to donate the owners.
 
-If you're gonna make a remaster of this send me the link of the repository (`cragdor the destroyer#0359`) and credit me
+If you're gonna make a remaster of this send me the link of the repository (`「🧀」Cheesehead#0359`) and credit me
 
 ## How to use?
 Simple, open the EXE, choose your game and wait until it's fully done downloading
